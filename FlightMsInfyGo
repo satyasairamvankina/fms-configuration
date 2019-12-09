@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/InfyGoFlightDB?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+
+server.port=8020
+spring.jpa.hibernate.ddl-auto=validate
